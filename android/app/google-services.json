@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "572990351550",
+    "firebase_url": "https://chat-app-44cc9.firebaseio.com",
+    "project_id": "chat-app-44cc9",
+    "storage_bucket": "chat-app-44cc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572990351550:android:e5d45e98fdf4fa112dd6ef",
+        "android_client_info": {
+          "package_name": "co.Khira.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572990351550-7flsect0g0ejg2tsbprlfus4tcl1qj5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzuRJTbKT0GER4MZIeQp3zfBhIgJJRNkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572990351550-7flsect0g0ejg2tsbprlfus4tcl1qj5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
